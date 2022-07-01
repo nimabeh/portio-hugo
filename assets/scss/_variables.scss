@@ -3,10 +3,10 @@
 //
 
 // General
-$primary: #5d78ff;
-$secondary: #282f49;
+$primary: #0068AB;
+$secondary: #2E0A61;
 // Text
-$headings-color: #282f49;
+$headings-color: #2E0A61;
 $body-color: #7e7e8a;
 
 //
@@ -16,7 +16,7 @@ $body-color: #7e7e8a;
 // Fonts
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Yeseva+One&display=swap");
 $font-family-base: "Poppins", sans-serif;
-$headings-font-family: "Yeseva One", cursive;
+$headings-font-family: "Poppins", cursive;
 
 // Size
 $font-size-base: 1.125rem; // 18px
